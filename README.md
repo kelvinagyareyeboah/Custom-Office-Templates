@@ -1,2 +1,2 @@
 # Custom-Office-Templates
-Collection of html, css and javascript projects
+Collection of html, css and javascript p

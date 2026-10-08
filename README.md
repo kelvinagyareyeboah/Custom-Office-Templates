@@ -1,2 +1,2 @@
 # Custom-Office-Templates
-Collection of html, css and javas
+Collection of html, cs
